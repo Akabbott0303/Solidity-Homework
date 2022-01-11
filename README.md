@@ -20,9 +20,9 @@ Here is the address assignment:
 
 The contract's address on the Ropsten network is 0x5A4B07e741Ffd29Ba20A4112684FABF7e1d0c7ee.  With the contract deployed, I was able to send Ether to our three employees:
 
-![Transaction_Ropsten](/Screenshots/Transaction_Reopsten.PNG)
+![Transaction_Ropsten](/Screenshots/Transaction_Ropsten.PNG)
 
-![Transaction_Confirmation](/Screenshots/Transaction_Confirmation.PNG)
+![Transaction_Ropsten_Confirmation](/Screenshots/Transaction_Ropsten_Confirmation.PNG)
 
 As expected, the contract balance is zero after the transaction was completed:
 
